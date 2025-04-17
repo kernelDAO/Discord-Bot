@@ -1,4 +1,8 @@
 ![discord](https://github.com/user-attachments/assets/cfe3f343-64c3-4e6e-b26b-f74077933e25)
+
+> [!WARNING]
+> This software is **not designed** for farming 24/7. It **needs to be monitored** at all times. Using it - **you** take responsibility for the **ban of your accounts** on discord servers. ALSO this code **uses Self-Bots**, which are **forbidden by Discord ToS**. Use of them is **punishable** by the **account blocking**..
+
 # DiscordBot by kernelDAO
 
 A simple software for farming roles on servers, powered by ChatGPT.
