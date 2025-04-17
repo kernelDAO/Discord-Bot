@@ -1,5 +1,6 @@
-
-# DiscordBot by kernelDAO
+![discord](https://github.com/user-attachments/assets/cfe3f343-64c3-4e6e-b26b-f74077933e25)
+# DiscordBot
+ot by kernelDAO
 
 A simple software for farming roles on servers, powered by ChatGPT.
 
