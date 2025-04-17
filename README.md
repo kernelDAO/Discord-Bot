@@ -45,7 +45,9 @@ MAX_ANSWERS_BEFORE_PAUSE = 6     # Max replies before pause
 MIN_PAUSE_SECONDS = 600          # Min pause duration (in sec)
 MAX_PAUSE_SECONDS = 1800         # Max pause duration (in sec)
 
-MODEL = "gpt-4o-mini"          # OpenAI model name
+BASE_PROMPT = ("""prompt""")     # Your prompt here
+
+MODEL = "gpt-4o-mini"            # OpenAI model name
 
 OPENAI_API_KEYS = ["sk-xxx"]     # List of OpenAI API keys
 OPENAI_PROXY = ""                # Optional proxy (http://user:pass@ip:port)
