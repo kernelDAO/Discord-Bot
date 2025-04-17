@@ -4,7 +4,7 @@
 > This software is **not designed** for farming 24/7. It **needs to be monitored** at all times. Using it - **you** take responsibility for the **ban of your accounts** on discord servers. ALSO this code **uses Self-Bots**, which are **forbidden by Discord ToS**. Use of them is **punishable** by the **account blocking**.
 
 > [!NOTE]
-> If you see bad code or have a better idea — open a Pull Request.
+> If you see bad code or have a better idea — open a Pull Request. **To understand how bot works - read the Bot Logic**
 
 # DiscordBot by kernelDAO
 
